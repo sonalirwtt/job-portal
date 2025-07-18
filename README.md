@@ -22,11 +22,13 @@
 
 ## .env Example
 
-'''
+<pre>
 VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
 VITE_CLERK_PUBLISHABLE_KEY=
-'''
+
+</pre>
+
 
 
 # Installation
@@ -36,16 +38,12 @@ VITE_CLERK_PUBLISHABLE_KEY=
 
 ## 2. Install Dependencies
 
-'''
-npm install
-'''
+<pre>npm install</pre>
 
 
 ## 3. Run the Development Server
 
-'''
-npm run dev
-'''
+<pre>npm run dev</pre>
 App should be running at [http://localhost:5173](http://localhost:5173).
 
 # Features
@@ -57,7 +55,7 @@ App should be running at [http://localhost:5173](http://localhost:5173).
 
 # Folder Structure
 
-'''
+<pre>
 fullstack-job-portal/
 │
 ├── public/
@@ -70,8 +68,7 @@ fullstack-job-portal/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
-'''
-
+</pre>
 
 # Contributing
 
